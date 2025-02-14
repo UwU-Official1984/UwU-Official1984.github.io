@@ -3137,7 +3137,7 @@ input, select, textarea {
 			}
 
 		.wrapper.style2 {
-			background-color: #000000;
+			background-color: ##9864DE;
 			color: #999999;
 		}
 
@@ -4075,8 +4075,8 @@ input, select, textarea {
 /* Footer */
 
 	#footer {
-		background-color: #f7f7f7;
-		color: #999999;
+		background-color: #000000;
+		color: #ffffff;
 		padding: 4.5em 0 2.5em 0 ;
 		color: #b0b0b0;
 		text-align: center;
