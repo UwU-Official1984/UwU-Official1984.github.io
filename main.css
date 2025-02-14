@@ -8,6 +8,7 @@ html {
     background-size: cover;
     height: 100%;
     overflow: hidden;
+    background-color: #413b71;
 }
 * {
     padding: 0;
