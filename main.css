@@ -34,6 +34,7 @@ a {
     width: 100%;
     border-radius: 0%;
     margin-top: 8%;
+    animation: fadeIn 1s;
 }
 
 .logoContainer {
@@ -43,11 +44,13 @@ a {
     aspect-ratio: 1;
     border-radius: 50%;
     margin-bottom: 2rem;
+    animation: fadeIn 1s;
 }
 
 .links {
     display: flex;
     flex-direction: column;
+    animation: fadeIn 1s;
 }
 
 .link {
@@ -61,6 +64,7 @@ a {
 
     margin: 0.5rem 0;
     border-radius: 15px;
+    animation: fadeIn 1s;
 }
 
 .greetings {
@@ -68,6 +72,7 @@ a {
     font-weight: 700;
     margin-bottom: 2rem;
     color: white;
+    animation: fadeIn 1s;
 }
 
 .about {
@@ -75,6 +80,7 @@ a {
     font-weight: 500;
     margin-bottom: 2rem;
     color: white;
+    animation: fadeIn 1s;
 }
 
 .link span {
@@ -190,3 +196,8 @@ a {
         transform: scale(1.01);
     }
 }
+@keyframes fadeIn {
+    0% { opacity: 0; }
+    100% { opacity: 1; }
+}
+
