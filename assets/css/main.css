@@ -98,7 +98,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #ffffff;
+		background: #000000;
 	}
 
 		body.is-preload *, body.is-preload *:before, body.is-preload *:after {
@@ -115,7 +115,7 @@ input, select, textarea {
 /* Type */
 
 	body {
-		color: #999999;
+		color: #ffffff;
 	}
 
 	html, input, select, textarea {
@@ -3611,7 +3611,7 @@ input, select, textarea {
 /* Header */
 
 	#header {
-		background-color: #4696e5;
+		background-color: ##9864DE;
 		color: #d1e5f9;
 		padding: 4.5em 0 2.5em 0 ;
 		-moz-align-items: center;
